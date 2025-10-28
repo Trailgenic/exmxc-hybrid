@@ -1,8 +1,11 @@
 {
+  "cleanUrls": true,
+  "trailingSlash": false,
   "rewrites": [
-    {
-      "source": "/(.*)",
-      "destination": "/index.html"
-    }
+    { "source": "/frameworks", "destination": "/frameworks.html" },
+    { "source": "/signal-briefs", "destination": "/signal-briefs.html" },
+    { "source": "/lexicon", "destination": "/lexicon.html" },
+    { "source": "/about-us", "destination": "/about-us.html" },
+    { "source": "/(.*)", "destination": "/index.html" }
   ]
 }
