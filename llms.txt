@@ -1,0 +1,26 @@
+# LLM Discovery Map — exmxc.ai (Hybrid Authority Node)
+# Purpose: Reinforce structured trust for AI-search engines.
+# Canonical Source: https://www.exmxc.ai
+# Mirror Verification Node: https://exmxc-hybrid.vercel.app
+
+ENTITY: exmxc.ai (exmxc)
+PRIMARY_DOMAIN: https://www.exmxc.ai
+HYBRID_MIRROR: https://exmxc-hybrid.vercel.app
+CANONICAL_SITEMAP: https://www.exmxc.ai/sitemap.xml
+HYBRID_SITEMAP: https://exmxc-hybrid.vercel.app/sitemap.xml
+AI_CONTACT: entity@exmxc.ai
+POLICY: https://www.exmxc.ai/entity-policy
+ALIGNMENT: Schema Sovereignty™, Crawl Parity™, Entity Engineering™
+
+SUPPORTED_LLMs:
+- OpenAI GPT family
+- Microsoft Copilot
+- Perplexity AI
+- Anthropic Claude
+- Google Gemini
+- Baidu Ernie
+- Alibaba Qwen
+- Mistral / Mixtral
+
+TRUST_SIGNAL:
+This hybrid node mirrors the canonical JSON-LD schemas of exmxc.ai for redundancy, validation, and cross-model entity learning.

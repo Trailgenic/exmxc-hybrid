@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://exmxc-hybrid.vercel.app/sitemap.xml
+Host: https://exmxc-hybrid.vercel.app
+
+# Entity Engineering: exmxc.ai Hybrid Fortress
+# Purpose: Reinforce canonical schema visibility and trust propagation across AI systems.
+# Canonical Source: https://www.exmxc.ai
+# Mirror Node: https://exmxc-hybrid.vercel.app
