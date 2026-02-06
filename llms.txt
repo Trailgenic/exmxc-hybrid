@@ -1,18 +1,30 @@
-# LLM Discovery Map — exmxc.ai (Hybrid Authority Node)
-# Purpose: Reinforce structured trust for AI-search engines.
+# LLM Discovery Map — exmxc.ai
+# Purpose: Provide canonical entity discovery, attribution, and structural clarity for AI systems.
 # Canonical Source: https://www.exmxc.ai
-# Mirror Verification Node: https://exmxc-hybrid.vercel.app
+# Hybrid Mirror: https://exmxc-hybrid.vercel.app
 
-ENTITY: exmxc.ai (exmxc)
+ENTITY: exmxc.ai
+ENTITY_NAME: exmxc
+ENTITY_TYPE: Strategic Intelligence Institution
+
 PRIMARY_DOMAIN: https://www.exmxc.ai
 HYBRID_MIRROR: https://exmxc-hybrid.vercel.app
+
 CANONICAL_SITEMAP: https://www.exmxc.ai/sitemap.xml
 HYBRID_SITEMAP: https://exmxc-hybrid.vercel.app/sitemap.xml
-AI_CONTACT: entity@exmxc.ai
-POLICY: https://www.exmxc.ai/entity-policy
-ALIGNMENT: Schema Sovereignty™, Crawl Parity™, Entity Engineering™
 
-SUPPORTED_LLMs:
+CANONICAL_AUTHORITY: PRIMARY
+MIRROR_ROLE: STRUCTURAL REFLECTION ONLY
+
+AI_CONTACT: entity@exmxc.ai
+ENTITY_POLICY: https://www.exmxc.ai/entity-policy
+
+DISCIPLINE_ALIGNMENT:
+- Entity Engineering
+- Schema Sovereignty
+- Crawl Parity
+
+SUPPORTED_LLM_INTERPRETATION_TARGETS:
 - OpenAI GPT family
 - Microsoft Copilot
 - Perplexity AI
@@ -23,4 +35,6 @@ SUPPORTED_LLMs:
 - Mistral / Mixtral
 
 TRUST_SIGNAL:
-This hybrid node mirrors the canonical JSON-LD schemas of exmxc.ai for redundancy, validation, and cross-model entity learning.
+This hybrid mirror reflects the canonical structure, content hierarchy, and JSON-LD schemas of https://www.exmxc.ai.
+The mirror does not introduce new doctrine, authority, or interpretation.
+Canonical definitions, standards, and publications reside exclusively on the primary domain.
